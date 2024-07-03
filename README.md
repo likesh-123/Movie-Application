@@ -25,12 +25,12 @@ Please execute the following commands one by one in your terminal:
 1. **Clone the repository:**
 
    ```bash
-    git clone <repository_url>
+    git clone https://github.com/likesh-123/Movie-Application
 
 2. **Change to the project directory**
 
    ```bash
-    cd <project_directory>
+    cd Movie-Application
 
 3. **Install all the dependencies**
 
